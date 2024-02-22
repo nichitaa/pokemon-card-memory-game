@@ -46,3 +46,5 @@ Build with React, Typescript and ViteJS
 
 - Besides above, I'd like to make the game "service" agnostic, use it with some predefined image services (not only
   pokemons or cats)
+
+A different implementation of card memory game (with a different mechanism of playing) is available here - https://github.com/nichitaa/card-memory-game
