@@ -5,6 +5,7 @@ import svgr from "vite-plugin-svgr";
 
 export default defineConfig({
   plugins: [react(), svgr()],
+  base: '/pokemon-card-memory-game/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
