@@ -1,5 +1,15 @@
 # Pokémon card memory game
 
+### Preview
+
+https://nichitaa.github.io/pokemon-card-memory-game/
+
+or locally
+```shell
+npm install
+npm run dev
+```
+
 ### Architecture brief description
 
 Actual game logic is defined in [`Game`](./src/game/game.ts) class and powered by RxJS streams.
